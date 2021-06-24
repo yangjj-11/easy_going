@@ -1,24 +1,4 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-
-# Scrapy stuff:
-.scrapy
-
-# Environments
+.idea
 venv/
-
 *DS_Store
